@@ -1,9 +1,13 @@
 Hi there, I am Kritiman Singh 👋
 
 🔭 I’m currently working on something cool 😉
+
 🎯 2025 Goals: Contribute more to open source projects
+
 🌱 I’m currently learning everything 😂
+
 💞️ I’m looking to collaborate on JAVA Projects
+
 ⚡  Reach me - kritimansingh123@gmail.com 
 
 <!---
